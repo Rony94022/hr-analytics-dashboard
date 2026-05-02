@@ -8,7 +8,7 @@ Python, SQL, and Power BI.
 
 ## Dashboard Preview
 
-!\[HR Dashboard](hr_dashboard.png)
+![HR Dashboard](https://github.com/Rony94022/hr-analytics-dashboard/blob/main/hr_dashboard.png?raw=true)
 
 \---
 
