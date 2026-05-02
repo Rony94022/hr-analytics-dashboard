@@ -8,7 +8,7 @@ Python, SQL, and Power BI.
 
 ## Dashboard Preview
 
-!\[HR Dashboard](hr\_dashboard.png)
+!\[HR Dashboard](hr_dashboard.png)
 
 \---
 
